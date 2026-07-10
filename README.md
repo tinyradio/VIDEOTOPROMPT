@@ -35,7 +35,7 @@ brew install ffmpeg
 ### 1. 저장소 클론
 
 ```bash
-git clone <this-repo-url> ~/git/VIDEOTOPROMPT
+git clone https://github.com/tinyradio/VIDEOTOPROMPT.git ~/git/VIDEOTOPROMPT
 ```
 
 ### 2-A. Claude Code에 설치
